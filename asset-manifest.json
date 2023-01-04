@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-list-Form-validation/static/css/main.073c9b0a.css",
+    "main.js": "/Todo-list-Form-validation/static/js/main.b835d44f.js",
+    "static/js/787.7c124829.chunk.js": "/Todo-list-Form-validation/static/js/787.7c124829.chunk.js",
+    "index.html": "/Todo-list-Form-validation/index.html",
+    "main.073c9b0a.css.map": "/Todo-list-Form-validation/static/css/main.073c9b0a.css.map",
+    "main.b835d44f.js.map": "/Todo-list-Form-validation/static/js/main.b835d44f.js.map",
+    "787.7c124829.chunk.js.map": "/Todo-list-Form-validation/static/js/787.7c124829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b835d44f.js"
+  ]
+}
